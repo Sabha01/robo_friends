@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sabha01/robo_friends.git/static/css/main.7337fc50.css",
+    "main.js": "/Sabha01/robo_friends.git/static/js/main.0235cfe8.js",
+    "index.html": "/Sabha01/robo_friends.git/index.html",
+    "main.7337fc50.css.map": "/Sabha01/robo_friends.git/static/css/main.7337fc50.css.map",
+    "main.0235cfe8.js.map": "/Sabha01/robo_friends.git/static/js/main.0235cfe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7337fc50.css",
+    "static/js/main.0235cfe8.js"
+  ]
+}
